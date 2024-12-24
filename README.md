@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [electra website](https://electra-web.vercel.app/)
 
-- 🌱 I’m currently learning **DSA in JAVA**
+- 🌱 I’m currently learning **DSA with JAVA**
 
 - 👨‍💻 All of my projects are available at [https://nithin-f8c59.firebaseapp.com/](https://nithin-f8c59.firebaseapp.com/)
 
